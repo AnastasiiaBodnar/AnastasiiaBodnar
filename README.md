@@ -1,7 +1,6 @@
 # Hi there! I'm Anastasiia 👋
 
-I'm a student passionate about technology and software development.  
-My goal is to become a **Full-Stack Developer** and build meaningful, user-friendly applications.
+I’m a student currently pursuing my career as a **Junior Full-Stack Web Developer**. I love working with both frontend and backend technologies to create complete and responsive web solutions.
 
 ## 🧩 Tech Stack
 

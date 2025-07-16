@@ -1,6 +1,7 @@
 # Hi there! I'm Anastasiia 👋
 
-I’m a student currently pursuing my career as a **Junior Full-Stack Web Developer**. I love working with both frontend and backend technologies to create complete and responsive web solutions.
+A student and **Junior Full-Stack Web Developer** passionate about building responsive, user-friendly web applications.  
+I enjoy working with both frontend and backend technologies to turn ideas into real digital experiences.
 
 ## 🧩 Tech Stack
 
@@ -15,6 +16,5 @@ I’m a student currently pursuing my career as a **Junior Full-Stack Web Develo
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 
 ---

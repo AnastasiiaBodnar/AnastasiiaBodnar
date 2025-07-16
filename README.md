@@ -17,4 +17,3 @@ I enjoy working with both frontend and backend technologies to turn ideas into r
   </a>
 </p>
 
----

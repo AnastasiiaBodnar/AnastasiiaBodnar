@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there! I'm Anastasiia 👋
 
 I'm a student passionate about technology and software development.  
@@ -13,16 +11,6 @@ My goal is to become a **Full-Stack Developer** and build meaningful, user-frien
 - 🔹 **Frontend**: HTML5, CSS3, Bootstrap, React  
 - 🔹 **Backend & Databases**: Firebase, MySQL  
 - 🔹 **Other**: Git, GitHub, Figma, Android Studio
-
----
-
-## 🔥 Featured Projects
-
-- 💇‍♀️ [Beauty Salon App](https://github.com/AnastasiiaBodnar/BeautySalonApp) – Android app with role-based access (admin/client), booking system, Firebase backend.
-- ♻️ [ReMade UA – New Life for Old Things](https://github.com/AnastasiiaBodnar/ReMade-UA) – Website that promotes upcycling and creates job opportunities for veterans and displaced people.
-- 🐾 [Animal Gallery App](https://github.com/AnastasiiaBodnar/Animal-Gallery) – Vue + Firebase app to display, add, edit and delete animals by category.
-
----
 
 ## 📈 GitHub Stats
 

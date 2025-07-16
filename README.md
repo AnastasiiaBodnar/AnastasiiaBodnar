@@ -16,7 +16,7 @@ My goal is to become a **Full-Stack Developer** and build meaningful, user-frien
 ---
 
 ## 📫 Contact Me
-- 🔗 LinkedIn: [[linkedin.com/in/anastasiia-bodnar](https://linkedin.com/in/anastasiia-bodnar)](https://www.linkedin.com/in/anastasiia-bodnar-676651363/)  
+- 🔗 LinkedIn: [[linkedin.com/in/anastasiia-bodnar](https://linkedin.com/in/anastasiia-bodnar)]
 
 
 ---

@@ -47,4 +47,5 @@ My goal is to become a **Full-Stack Developer** and build meaningful, user-frien
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,aws,mongodb,python,firebase,mysql" />
 

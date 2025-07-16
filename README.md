@@ -12,27 +12,12 @@ My goal is to become a **Full-Stack Developer** and build meaningful, user-frien
 - 🔹 **Backend & Databases**: Firebase, MySQL  
 - 🔹 **Other**: Git, GitHub, Figma, Android Studio
 
-## 📈 GitHub Stats
-
-![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiiaBodnar&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiiaBodnar&layout=compact)
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Complete my mobile beauty salon application  
-- 🚀 Build a personal portfolio site using React  
-- 🎓 Learn Node.js and MongoDB  
-- 📝 Polish and publish more personal projects
 
 ---
 
 ## 📫 Contact Me
+- 🔗 LinkedIn: [[linkedin.com/in/anastasiia-bodnar](https://linkedin.com/in/anastasiia-bodnar)](https://www.linkedin.com/in/anastasiia-bodnar-676651363/)  
 
-- 📧 Email: bodnar.anastasiia@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/anastasiia-bodnar](https://linkedin.com/in/anastasiia-bodnar)  
-- 🌐 Portfolio: [anastasiia.dev](https://anastasiia.dev) _(coming soon)_
 
 ---
 
